@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SosialitaDevTool</string>
+    <string name="title_activity_splashscreen">Splashscreen</string>
+    <string name="title_activity_menu">Menu</string>
+</resources>
